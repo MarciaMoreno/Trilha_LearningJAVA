@@ -1,0 +1,180 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "TerminalEArgumentos.AboutMe",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "AnatomiaDasClasses.BoletimEstudantil",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "MinhaPrimeiraClasse",
+            "request": "launch",
+            "mainClass": "AnatomiaDasClasses.MinhaPrimeiraClasse",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "NomeBemDefinido",
+            "request": "launch",
+            "mainClass": "AnatomiaDasClasses.NomeBemDefinido",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "NomeDeVariavel",
+            "request": "launch",
+            "mainClass": "AnatomiaDasClasses.NomeDeVariavel",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "VariavelJavaBeans",
+            "request": "launch",
+            "mainClass": "AnatomiaDasClasses.VariavelJavaBeans",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "TvSmart",
+            "request": "launch",
+            "mainClass": "Metodos.TvSmart",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "Concatenacao",
+            "request": "launch",
+            "mainClass": "Operadores.Concatenacao",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "OperadorAbreviado",
+            "request": "launch",
+            "mainClass": "Operadores.OperadorAbreviado",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAritmeticos",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresAritmeticos",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAtribuicao",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresAtribuicao",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresLogicos",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresRelacionais",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresTernarios",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresTernarios",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnarios",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresUnarios",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "ValorReferencia",
+            "request": "launch",
+            "mainClass": "Operadores.ValorReferencia",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "VersusEquals",
+            "request": "launch",
+            "mainClass": "Operadores.VersusEquals",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "Palavra",
+            "request": "launch",
+            "mainClass": "PalavrasReservadas.Palavra",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDeArgumentosTipoString",
+            "request": "launch",
+            "mainClass": "TerminalEArgumentos.ArrayDeArgumentosTipoString",
+            "args": [
+                "GLEYSSON",
+                "SAMPAIO",
+                "28",
+                "1.58"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "TerminalEArgumentos.MinhaClasse",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "ExemploEstrutura",
+            "request": "launch",
+            "mainClass": "TiposEVariaveis.ExemploEstrutura",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "TipoConstante",
+            "request": "launch",
+            "mainClass": "TiposEVariaveis.TipoConstante",
+            "projectName": "Sintaxe_992c34d4"
+        },
+        {
+            "type": "java",
+            "name": "TipoDados",
+            "request": "launch",
+            "mainClass": "TiposEVariaveis.TipoDados",
+            "projectName": "Sintaxe_992c34d4"
+        }
+    ]
+}
