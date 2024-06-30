@@ -1,18 +1,25 @@
-## Getting Started
+# ![..](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48) Getting Started JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the VS Code Java world. ![..](https://github.com/vscode-icons.png?size=40). Aqui está uma diretriz para ajudá-lo a começar a escrever código Java no Visual Studio Code.
 
-## Folder Structure
+## Estrutura de Arquivos SINTAXE...
 
-The workspace contains two folders by default, where:
+A area de Trabalho do diretório Sintaxe contém dois diretórios lib e src. 
+A src possuem todas as codificações com extensão.java, contidas em packages listados abaixo.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## SRC 
+- Anatomia das Classes
+- Tipos e Variáveis
+- Operadores
+- Métodos
+- Escopo.
+- Palavras reservadas
+- Documentação e Argumentos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
+> Se você deseja personalizar a estrutura de pastas, abra `.vscode/settings.json` e atualize as configurações relacionadas lá.
+> 
+## Gerenciamento de Dependências
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A visualização `JAVA PROJECTS` permite que você gerencie suas dependências. Mais detalhes podem ser encontrados [aqui](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
