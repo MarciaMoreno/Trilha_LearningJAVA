@@ -2,9 +2,9 @@
 
 Welcome to the VS Code Java world. ![..](https://github.com/vscode-icons.png?size=40). Aqui está uma diretriz para ajudá-lo a começar a escrever código Java no Visual Studio Code.
 
-## Estrutura de Arquivos...
+## Estrutura de Arquivos SINTAXE...
 
-A area de Trabalho contém dois diretórios lib e src. 
+A area de Trabalho do diretório Sintaxe contém dois diretórios lib e src. 
 A src possuem todas as codificações com extensão.java, contidas em packages listados abaixo.
 
 ## SRC 
