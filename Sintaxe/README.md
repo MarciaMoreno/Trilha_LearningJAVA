@@ -1,6 +1,6 @@
-## ![..](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48) Getting Started
+# ![..](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48) Getting Started JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the VS Code Java world. ![..](https://github.com/vscode-icons.png?size=40). Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Estrutura de Arquivos...
 
