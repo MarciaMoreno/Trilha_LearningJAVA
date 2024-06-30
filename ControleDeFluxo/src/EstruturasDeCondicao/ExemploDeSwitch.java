@@ -13,11 +13,11 @@ public class ExemploDeSwitch {
 		System.out.println("P - PEQUENO");
 		System.out.println("G - GRANDE");
         String sigla = scanner.next();
-		if(sigla == "P" && sigla == "p")
+		if(sigla == "P")
 			System.out.println("PEQUENO");
-		else if(sigla == "M" && sigla == "m")
+		else if(sigla == "M" || sigla == "m")
 			System.out.println("MÉDIO");
-		else if(sigla == "G" && sigla == "g")
+		else if(sigla == "G" || sigla == "g")
 			System.out.println("GRANDE");
 		else
 			System.out.println("Não corresponde nenhuma das opções...");
