@@ -1,3 +1,7 @@
+# SINTAXE DAS CLASSES EM JAVA
+
+Uma breve descrição sobre o que esse projeto faz e para quem ele é
+
 # ![..](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48) Getting Started JAVA
 
 Welcome to the VS Code Java world. ![..](https://github.com/vscode-icons.png?size=40). Aqui está uma diretriz para ajudá-lo a começar a escrever código Java no Visual Studio Code.
