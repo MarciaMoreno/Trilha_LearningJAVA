@@ -9,7 +9,7 @@ Welcome to the VS Code Java world. ![..](https://github.com/vscode-icons.png?siz
 
 ## Estrutura de Arquivos CONTROLE DE FLUXO...
 
-A area de Trabalho do diretório Sintaxe contém dois diretórios lib e src. 
+A area de Trabalho do diretório ControleDeFluxo contém dois diretórios lib e src. 
 A src possuem todas as codificações com extensão.java, contidas em packages listados abaixo.
 
 ## SRC 
