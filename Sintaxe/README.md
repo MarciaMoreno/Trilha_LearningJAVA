@@ -2,12 +2,20 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## Estrutura de Arquivos...
 
-The workspace contains two folders by default, where:
+A area de Trabalho contém dois diretórios lib e src. 
+A src possuem todas as codificações com extensão.java, contidas em packages listados abaixo.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## SRC 
+- Anatomia das Classes
+- Tipos e Variáveis
+- Operadores
+- Métodos
+- Escopo.
+- Palavras reservadas
+- Documentação e Argumentos
+
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
