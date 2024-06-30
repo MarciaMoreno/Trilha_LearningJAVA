@@ -1,4 +1,4 @@
-package EstruturasCondicionais;
+package EstruturasDeCondicao;
 
 public class CaixaEletronico {
 
