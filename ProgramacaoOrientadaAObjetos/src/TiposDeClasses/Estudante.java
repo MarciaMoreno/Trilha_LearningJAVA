@@ -8,7 +8,7 @@ public class Estudante {
     String genero;
 
     public void comer(){
-        System.out.println("O aluno"+name+"está comendo...");
+        System.out.println("O aluno"+name+"está em horário de almoço...");
     }
     public void beber(){
         System.out.println("O nosso aluno esta bebendo água...");
