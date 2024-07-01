@@ -17,12 +17,13 @@ public class ListandoCandidatos {
     }
 
     static void case1(String candidato, double salarioPretendido){
-        double salarioBase = 2000.00;
-        if (salarioBase >= salarioPretendido) System.out.println("Candidato Selecionado: "+candidato);
-        else System.out.println("Aguardando nova Oportunidade...");
+        if (salarioPretendido >= 2000.00)
+        System.out.println("Candidato Selecionado: "+candidato);
+        
     }
 
-
-
-
+    static void selecionar(){
+        
+    }
+    
 }
