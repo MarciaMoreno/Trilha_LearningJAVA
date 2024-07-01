@@ -1,7 +1,5 @@
 package CaseProcessoSeletivo;
 
-import java.util.Arrays;
-
 public class ListandoCandidatos {
 
     public static void main(String[] args){      
@@ -20,12 +18,10 @@ public class ListandoCandidatos {
 
     static void case1(String candidato, double salarioPretendido){
         double salarioBase = 2000.00;
-        if(salarioBase > salarioPretendido) {
-            System.out.println("Candidato Selecionado: "+candidato);            
-        }
-        else if( salarioBase == salarioPretendido) System.out.println("Oferecer contra-proposta: "+candidato);
-        else System.out.println("Aguardar nova oportunidade...");
+        if (salarioBase >= salarioPretendido) System.out.println("Candidato Selecionado: "+candidato);
+        else System.out.println("Aguardando nova Oportunidade...");
     }
+
 
 
 
