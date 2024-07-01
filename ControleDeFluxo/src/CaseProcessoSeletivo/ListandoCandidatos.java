@@ -23,7 +23,7 @@ public class ListandoCandidatos {
         if(salarioBase > salarioPretendido) {
             System.out.println("Candidato Selecionado: "+candidato);            
         }
-        else if( salarioBase == salarioPretendido) System.out.println("Oferecer contra-proposta"+candidato);
+        else if( salarioBase == salarioPretendido) System.out.println("Oferecer contra-proposta: "+candidato);
         else System.out.println("Aguardar nova oportunidade...");
     }
 
