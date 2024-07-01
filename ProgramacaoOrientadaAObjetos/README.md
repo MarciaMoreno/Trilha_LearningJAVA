@@ -7,9 +7,9 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 Welcome to the VS Code Java world. ![..](https://github.com/vscode-icons.png?size=40). Aqui está uma diretriz para ajudá-lo a começar a escrever código Java no Visual Studio Code.
 
-## Estrutura de Arquivos CONTROLE DE FLUXO...
+## Estrutura de Arquivos Programação Orientada a Objetos - POO...
 
-A area de Trabalho do diretório ControleDeFluxo contém dois diretórios lib e src. 
+A area de Trabalho do diretório Programação Orientada a Objetos - POO contém dois diretórios lib e src. 
 A src possuem todas as codificações com extensão.java, contidas em packages listados abaixo.
 
 ## SRC 
