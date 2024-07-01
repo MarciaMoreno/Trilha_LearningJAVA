@@ -1,4 +1,4 @@
-package ConstrutoresEmClasses;
+package TiposDeConstrutores;
 //Criando o enum EstadoBrasileiro para ser usado em toda a aplicação.
 public enum EstadoBrasileiro {
 	
@@ -56,4 +56,6 @@ public enum EstadoBrasileiro {
 	public String getNomeMaiusculo() {
 		return estado.toUpperCase();
 	}
+
+}
 	

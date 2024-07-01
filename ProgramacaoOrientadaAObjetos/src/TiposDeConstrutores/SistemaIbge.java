@@ -1,4 +1,4 @@
-package ConstrutoresEmClasses;
+package TiposDeConstrutores;
 
 public class SistemaIbge {
 	public static void main(String[] args) {
@@ -189,6 +189,6 @@ public class SistemaIbge {
 		System.out.println("Sigla: "+eb26.getSigla());	
 		System.out.println("Codigo IBGE: "+eb26.getCodigoIbge());
 		System.out.println("-------------------------------------------------------------------------------");
-
+    }
 		
 	}
