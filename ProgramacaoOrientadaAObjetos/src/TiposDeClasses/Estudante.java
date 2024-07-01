@@ -5,7 +5,7 @@ public class Estudante {
     String name;
     int idade;
     String serie;
-    String Genero;
+    String genero;
 
     public void comer(){
         System.out.println("O aluno"+name+"está comendo...");
