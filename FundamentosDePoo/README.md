@@ -11,7 +11,7 @@ Welcome to the ECLIPSE . ![..](https://www.eclipse.org/eclipse.org-common/themes
 > Versão java 22 SE e jdk respectivos.
 > Diretorio para exemplificar os exemplos da aula... 
 
-## Estrutura de Arquivos FUNDAMENTOS DE POO (Programação Orientada à Objetos em JAVA) ...
+## Estrutura de Arquivos FUNDAMENTOS DE POO (Programação Orientada à Objetos em JAVA)
 
 A area de Trabalho do diretório FUNDAMENTOS DE POO contém dois diretórios lib e src. 
 A src possuem todas as codificações com extensão.java, contidas em packages listados abaixo.
