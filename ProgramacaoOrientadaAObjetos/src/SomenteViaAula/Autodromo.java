@@ -2,9 +2,10 @@ package SomenteViaAula;
 
 public class Autodromo {
 
-    Carro jeep = new Carro();
-    jeep.ligar();
+    public static void main(String[] args) {
+        Carro jeep = new Carro();
+        jeep.ligar();
 
 
-
+    }
 }
