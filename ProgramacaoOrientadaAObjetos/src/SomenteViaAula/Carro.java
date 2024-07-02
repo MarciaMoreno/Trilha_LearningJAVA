@@ -1,6 +1,6 @@
 package SomenteViaAula;
 
-public class Carro {
+public class Carro extends Veiculo{
 
     public void ligar(){
         conferirCombustivel();
