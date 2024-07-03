@@ -1,0 +1,198 @@
+package EstadosDoBrasil;
+
+public class SistemaIbge {
+	
+	public static void main(String[] args) {
+		
+		for (EstadoBrasileiro e: EstadoBrasileiro.values()) {
+			System.out.println("Região: "+e.getRegiao()+" *** " + e.getEstado() + "/" + e.getSigla()+" - Codigo Ibge: "+e.getCodigoIbge());
+			System.out.println("-----------------------------------------------------------------------");
+		}
+		System.out.println("\n\n\n**************************************************************************");
+		System.out.println("REGIÃO NORTE");
+		System.out.println("**************************************************************************");
+		EstadoBrasileiro eb = EstadoBrasileiro.RONDONIA;
+		System.out.println("Região: "+eb.getRegiao());
+		System.out.println("Estado: "+eb.getEstado());
+		System.out.println("Sigla: "+eb.getSigla());	
+		System.out.println("Codigo IBGE: "+eb.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb1 = EstadoBrasileiro.ACRE;
+		System.out.println("Região: "+eb1.getRegiao());
+		System.out.println("Estado: "+eb1.getEstado());
+		System.out.println("Sigla: "+eb1.getSigla());	
+		System.out.println("Codigo IBGE: "+eb1.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb2 = EstadoBrasileiro.AMAZONAS;
+		System.out.println("Região: "+eb2.getRegiao());
+		System.out.println("Estado: "+eb2.getEstado());
+		System.out.println("Sigla: "+eb2.getSigla());	
+		System.out.println("Codigo IBGE: "+eb2.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb3 = EstadoBrasileiro.RORAIMA;
+		System.out.println("Região: "+eb3.getRegiao());
+		System.out.println("Estado: "+eb3.getEstado());
+		System.out.println("Sigla: "+eb3.getSigla());	
+		System.out.println("Codigo IBGE: "+eb3.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb4 = EstadoBrasileiro.PARA;
+		System.out.println("Região: "+eb4.getRegiao());
+		System.out.println("Estado: "+eb4.getEstado());
+		System.out.println("Sigla: "+eb4.getSigla());	
+		System.out.println("Codigo IBGE: "+eb4.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb5 = EstadoBrasileiro.AMAPA;
+		System.out.println("Região: "+eb5.getRegiao());
+		System.out.println("Estado: "+eb5.getEstado());
+		System.out.println("Sigla: "+eb5.getSigla());	
+		System.out.println("Codigo IBGE: "+eb5.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb6 = EstadoBrasileiro.TOCANTINS;
+		System.out.println("Região: "+eb6.getRegiao());
+		System.out.println("Estado: "+eb6.getEstado());
+		System.out.println("Sigla: "+eb6.getSigla());	
+		System.out.println("Codigo IBGE: "+eb6.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		
+		System.out.println("\n\n\n**************************************************************************");
+		System.out.println("REGIÃO NORDESTE");
+		System.out.println("**************************************************************************");
+		EstadoBrasileiro eb7 = EstadoBrasileiro.MARANHAO;
+		System.out.println("Região: "+eb7.getRegiao());
+		System.out.println("Estado: "+eb7.getEstado());
+		System.out.println("Sigla: "+eb7.getSigla());	
+		System.out.println("Codigo IBGE: "+eb7.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb8 = EstadoBrasileiro.PIAUI;
+		System.out.println("Região: "+eb8.getRegiao());
+		System.out.println("Estado: "+eb8.getEstado());
+		System.out.println("Sigla: "+eb8.getSigla());	
+		System.out.println("Codigo IBGE: "+eb8.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb9 = EstadoBrasileiro.CEARA;
+		System.out.println("Região: "+eb9.getRegiao());
+		System.out.println("Estado: "+eb9.getEstado());
+		System.out.println("Sigla: "+eb9.getSigla());	
+		System.out.println("Codigo IBGE: "+eb9.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb10 = EstadoBrasileiro.RIO_GRANDE_DO_NORTE;
+		System.out.println("Região: "+eb10.getRegiao());
+		System.out.println("Estado: "+eb10.getEstado());
+		System.out.println("Sigla: "+eb10.getSigla());	
+		System.out.println("Codigo IBGE: "+eb10.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb11 = EstadoBrasileiro.PARAIBA;
+		System.out.println("Região: "+eb11.getRegiao());
+		System.out.println("Estado: "+eb11.getEstado());
+		System.out.println("Sigla: "+eb11.getSigla());	
+		System.out.println("Codigo IBGE: "+eb11.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb12 = EstadoBrasileiro.PERNAMBUCO;
+		System.out.println("Região: "+eb12.getRegiao());
+		System.out.println("Estado: "+eb12.getEstado());
+		System.out.println("Sigla: "+eb12.getSigla());	
+		System.out.println("Codigo IBGE: "+eb12.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb13 = EstadoBrasileiro.ALAGOAS;
+		System.out.println("Região: "+eb13.getRegiao());
+		System.out.println("Estado: "+eb13.getEstado());
+		System.out.println("Sigla: "+eb13.getSigla());	
+		System.out.println("Codigo IBGE: "+eb13.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb14 = EstadoBrasileiro.SERGIPE;
+		System.out.println("Região: "+eb14.getRegiao());
+		System.out.println("Estado: "+eb14.getEstado());
+		System.out.println("Sigla: "+eb14.getSigla());	
+		System.out.println("Codigo IBGE: "+eb14.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb15 = EstadoBrasileiro.BAHIA;
+		System.out.println("Região: "+eb15.getRegiao());
+		System.out.println("Estado: "+eb15.getEstado());
+		System.out.println("Sigla: "+eb15.getSigla());	
+		System.out.println("Codigo IBGE: "+eb15.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		
+		System.out.println("\n\n\n**************************************************************************");
+		System.out.println("REGIÃO SUDESTE");
+		System.out.println("**************************************************************************");
+		EstadoBrasileiro eb16 = EstadoBrasileiro.MINAS_GERAIS;
+		System.out.println("Região: "+eb16.getRegiao());
+		System.out.println("Estado: "+eb16.getEstado());
+		System.out.println("Sigla: "+eb16.getSigla());	
+		System.out.println("Codigo IBGE: "+eb16.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb17 = EstadoBrasileiro.ESPIRITO_SANTO;
+		System.out.println("Região: "+eb17.getRegiao());
+		System.out.println("Estado: "+eb17.getEstado());
+		System.out.println("Sigla: "+eb17.getSigla());	
+		System.out.println("Codigo IBGE: "+eb17.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb18 = EstadoBrasileiro.RIO_DE_JANEIRO;
+		System.out.println("Região: "+eb18.getRegiao());
+		System.out.println("Estado: "+eb18.getEstado());
+		System.out.println("Sigla: "+eb18.getSigla());	
+		System.out.println("Codigo IBGE: "+eb18.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb19 = EstadoBrasileiro.SAO_PAULO;
+		System.out.println("Região: "+eb19.getRegiao());
+		System.out.println("Estado: "+eb19.getEstado());
+		System.out.println("Sigla: "+eb19.getSigla());	
+		System.out.println("Codigo IBGE: "+eb19.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+
+		
+		System.out.println("\n\n\n**************************************************************************");
+		System.out.println("REGIÃO SUL");
+		System.out.println("**************************************************************************");
+		EstadoBrasileiro eb20 = EstadoBrasileiro.PARANA;
+		System.out.println("Região: "+eb20.getRegiao());
+		System.out.println("Estado: "+eb20.getEstado());
+		System.out.println("Sigla: "+eb20.getSigla());	
+		System.out.println("Codigo IBGE: "+eb20.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb21 = EstadoBrasileiro.SANTA_CATARINA;
+		System.out.println("Região: "+eb21.getRegiao());
+		System.out.println("Estado: "+eb21.getEstado());
+		System.out.println("Sigla: "+eb21.getSigla());	
+		System.out.println("Codigo IBGE: "+eb21.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb22 = EstadoBrasileiro.RIO_GRANDE_DO_SUL;
+		System.out.println("Região: "+eb22.getRegiao());
+		System.out.println("Estado: "+eb22.getEstado());
+		System.out.println("Sigla: "+eb22.getSigla());	
+		System.out.println("Codigo IBGE: "+eb22.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+
+		
+		System.out.println("\n\n\n**************************************************************************");
+		System.out.println("REGIÃO CENTRO-OESTE");
+		System.out.println("**************************************************************************");
+		EstadoBrasileiro eb23 = EstadoBrasileiro.MATO_GROSSO_DO_SUL;
+		System.out.println("Região: "+eb23.getRegiao());
+		System.out.println("Estado: "+eb23.getEstado());
+		System.out.println("Sigla: "+eb23.getSigla());	
+		System.out.println("Codigo IBGE: "+eb23.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb24 = EstadoBrasileiro.MATO_GROSSO;
+		System.out.println("Região: "+eb24.getRegiao());
+		System.out.println("Estado: "+eb24.getEstado());
+		System.out.println("Sigla: "+eb24.getSigla());	
+		System.out.println("Codigo IBGE: "+eb24.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb25 = EstadoBrasileiro.GOIAS;
+		System.out.println("Região: "+eb25.getRegiao());
+		System.out.println("Estado: "+eb25.getEstado());
+		System.out.println("Sigla: "+eb25.getSigla());	
+		System.out.println("Codigo IBGE: "+eb25.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+		EstadoBrasileiro eb26 = EstadoBrasileiro.DISTRITO_FEDERAL;
+		System.out.println("Região: "+eb26.getRegiao());
+		System.out.println("Estado: "+eb26.getEstado());
+		System.out.println("Sigla: "+eb26.getSigla());	
+		System.out.println("Codigo IBGE: "+eb26.getCodigoIbge());
+		System.out.println("-------------------------------------------------------------------------------");
+
+		
+	}
+	
+}
