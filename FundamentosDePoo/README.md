@@ -18,6 +18,8 @@ A src possuem todas as codificações com extensão.java, contidas em packages l
 
 ## SRC 
 - lanchonete
+- TipoGetSet
+- TipoEnum
 
 
 Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
