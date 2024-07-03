@@ -1,7 +1,5 @@
 package lanchonete.Cozinha;
 
-import lanchonete.Atendente;
-
 public class Cozinheiro {
 	
 		//pode ser default
