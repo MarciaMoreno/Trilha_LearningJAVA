@@ -24,7 +24,4 @@ A src possuem todas as codificações com extensão.java, contidas em packages l
 
 Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
 
-## Gerenciamento de Dependências
-
-A visualização `JAVA PROJECTS` permite que você gerencie suas dependências. Mais detalhes podem ser encontrados [aqui](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
