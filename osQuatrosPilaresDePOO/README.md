@@ -1,4 +1,4 @@
-# FUNDAMENTOS DE POO (Programação Orientada à Objetos em JAVA)
+# OS 4 PILARES DE POO (Programação Orientada à Objetos em JAVA)
 
 Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
@@ -11,17 +11,21 @@ Welcome to the ECLIPSE . ![..](https://www.eclipse.org/eclipse.org-common/themes
 > Versão java 22 SE e jdk respectivos.
 > Diretorio para exemplificar os exemplos da aula... 
 
-## Estrutura de Arquivos FUNDAMENTOS DE POO (Programação Orientada à Objetos em JAVA)
+## Estrutura de Arquivos OS 4 PILARES DE POO (Programação Orientada à Objetos em JAVA)
 
 A area de Trabalho do diretório FUNDAMENTOS DE POO contém dois diretórios 'JRE SystemLibrary' e 'src'. 
 A src possuem todas as codificações com extensão.java, contidas em packages listados abaixo.
 
 ## SRC 
-- lanchonete
-- TipoGetSet
-- TipoEnum
-
+- Exemplo de Encapsulamento
+- Exemplo de Herança
+- Exemplo de Abstração
+- Exemplo de polimorfismo
+- Concessionaria
 
 Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
+
+## Gerenciamento de Dependências
+
 
 
