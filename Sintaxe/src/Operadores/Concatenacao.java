@@ -6,7 +6,7 @@ public class Concatenacao {
         
         //classe Operadores.java
         String nomeCompleto = "LINGUAGEM " + " JAVA";
-                
+        System.out.println(nomeCompleto);        
         //qual o resultado das expressoes abaixo?
         String concatenacao = "?"; 
         System.out.println("O valor da variável concatenada = '?' resulta: "+concatenacao);
