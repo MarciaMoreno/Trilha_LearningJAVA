@@ -19,10 +19,8 @@ public class OperadoresUnarios {
         System.out.println("A ordem conta e retornará 8 ");
         System.out.println(++ numero);
         System.out.println("\n\n---------------------------------------------");
-        System.out.println("A variável verdadeiro recebeu o valor de 'true',");
         boolean verdadeiro = true;
-        System.out.print("Invertendo a variável !verdadeiro = ");
-        System.out.println(!verdadeiro);
-        System.out.println("Inverteu " + !verdadeiro);
+        System.out.println(verdadeiro);
+        System.out.println("Invertendo a varivael acima : " + !verdadeiro);
     }
 }
