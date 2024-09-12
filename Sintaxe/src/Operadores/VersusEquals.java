@@ -4,7 +4,7 @@ public class VersusEquals {
 	
 	 public static void main(String[] args) {
 		
-		 	int numero1 = 130;
+		int numero1 = 130;
 	        int numero2 = 130;
 	        System.out.println(numero1 == numero2); //true
 	        
