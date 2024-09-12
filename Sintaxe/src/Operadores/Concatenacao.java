@@ -19,5 +19,6 @@ public class Concatenacao {
         concatenacao = "1"+1+1+1;
         System.out.println("concatenacao = \"1\"+1+1+1; resultado = "+concatenacao);
         concatenacao = "1"+(1+1+1);
+        System.out.println("concatenacao = \"1\"+(1+1+1); resultado = "+concatenacao);
     }
 }
