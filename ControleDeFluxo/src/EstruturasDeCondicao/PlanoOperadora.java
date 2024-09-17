@@ -6,7 +6,7 @@ public class PlanoOperadora {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-		System.out.println("UTILIZANDO UMA CONDIÇÃO DE LOOP IF/ELSE...");		
+	System.out.println("UTILIZANDO UMA CONDIÇÃO DE LOOP IF/ELSE...");		
         System.out.println("Escolha um plano para visualizar os beneficios...");
         System.out.println("1 - PLANO Box de Ligação");
         System.out.println("2 - PLANO Box de Midia");
@@ -24,8 +24,8 @@ public class PlanoOperadora {
 			System.out.println("5Gb Youtube");	
 		}else System.out.println("Erro de digitação... Tente uma opção válida...");
 
-		System.out.println("\n\nUTILIZANDO UMA CONDIÇÃO DE LOOP SWITCH...");		
-		System.out.println("Escolha um plano para visualizar os beneficios...");
+	System.out.println("\n\nUTILIZANDO UMA CONDIÇÃO DE LOOP SWITCH...");		
+	System.out.println("Escolha um plano para visualizar os beneficios...");
         System.out.println("1 - PLANO Box de Ligação");
         System.out.println("2 - PLANO Box de Midia");
         System.out.println("3 - PLANO Box YouTube GIGA");
