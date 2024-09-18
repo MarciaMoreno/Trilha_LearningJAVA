@@ -7,7 +7,7 @@ public enum EstadoBrasileiro {
 	AMAZONAS("Norte","Amazonas","AM",13),
 	RORAIMA("Norte","Roraima","RO",14),
 	PARA("Norte","Pará","PA",15),
-	AMAPA("Norte","Amapá","AM",16),
+	AMAPA("Norte","Amapá","AP",16),
 	TOCANTINS("Norte","Tocantins","TO",17),
 	MARANHAO("Nordeste","Maranhão","MA",21),
 	PIAUI("Nordeste","Piauí","PI",22),
