@@ -5,7 +5,7 @@ public enum EstadoBrasileiro {
 	RONDONIA("Norte","Rondônia","RO",11),
 	ACRE("Norte","Acre","AC",12),
 	AMAZONAS("Norte","Amazonas","AM",13),
-	RORAIMA("Norte","Roraima","RO",14),
+	RORAIMA("Norte","Roraima","RR",14),
 	PARA("Norte","Pará","PA",15),
 	AMAPA("Norte","Amapá","AP",16),
 	TOCANTINS("Norte","Tocantins","TO",17),
