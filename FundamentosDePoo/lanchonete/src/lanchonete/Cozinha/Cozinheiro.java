@@ -26,10 +26,10 @@ public class Cozinheiro {
 			prepararVitamina();
 		}
 		private void selecionarIngredientesLanche() {
-			System.out.println("Cozinheiro SELECIONADO O PÃO, SALADA, OVO E CARNE");
+			System.out.println("Cozinheiro SELECIONANDO O PÃO, SALADA, OVO E CARNE");
 		}
 		private void selecionarIngredientesVitamina() {
-			System.out.println("Cozinheiro SELECIONADO FRUTA, LEITE E SUCO");
+			System.out.println("Cozinheiro SELECIONANDO FRUTA, LEITE E SUCO");
 		}
 		private void lavarIngredientes() {
 			System.out.println("Cozinheiro LAVANDO INGREDIENTES");
