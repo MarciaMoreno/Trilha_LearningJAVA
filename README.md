@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1>TRILHA Learning JAVA </h1>
   <img src="https://github.com/MarciaMoreno/Trilha_LearningJAVA/blob/main/assets/logo_curso.png?raw=true" alt="Logo do curso Dio Java">
-  <img src="https://github.com/MarciaMoreno/Trilha_LearningJAVA/blob/main/assets/java.png?raw=true" alt="Logo java">
+  <img width="100" src="https://github.com/MarciaMoreno/Trilha_LearningJAVA/blob/main/assets/java.png?raw=true" alt="Logo java">
 </div>
 
 | Orientador(a): JAVA FUNDAMENTALS. | Orientador(a): JAVA INTERMEDIÁRIO. |
