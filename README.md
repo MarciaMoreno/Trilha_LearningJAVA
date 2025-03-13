@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>TRILHA Learning JAVA </h1>  
+  <h1>TRILHA Learning</h1>  
    <img width="100" src="https://github.com/MarciaMoreno/Trilha_LearningJAVA/blob/main/assets/java.png?raw=true" alt="Logo java">
 </div>
 
